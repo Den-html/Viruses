@@ -1,4 +1,2 @@
 # Viruses
-Viruses
-Just Viruses
-They open too much windows
+<h3>Крашут комп различными способами.</h3>
